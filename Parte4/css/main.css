@@ -1,0 +1,17 @@
+.uno div{ 
+ width:350px;
+ height: 200px;
+ float: left;     
+}
+
+.uno div:nth-child(1){background:yellow}
+.uno div:nth-child(2){background:blue}
+.uno div:nth-child(3){background:red}
+.uno{
+     outline: solid 2px red;
+     overflow: auto;    
+}
+
+
+
+    

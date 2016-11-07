@@ -1,0 +1,18 @@
+body{
+    margin: 10px;
+    text-align: center;
+}
+h1{
+    background-color: pink;
+    font-family: cursive;
+    font-size: 60px;
+    color:violet;
+    
+}
+a{
+    font-family: cursive;
+    font-size: 35px;
+    margin:20px;
+    color: blue;
+    background-color: yellowgreen;
+}
